@@ -1,3 +1,7 @@
+"""
+Doc: https://github.com/microsoft/mcp-for-beginners/blob/main/03-GettingStarted/01-first-server/README.md
+"""
+
 from mcp.server.fastmcp import FastMCP
 from calculator import Calculator
 
